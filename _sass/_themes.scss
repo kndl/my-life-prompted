@@ -188,6 +188,10 @@ html[data-theme-setting="light"] {
   .checkout-button:disabled {
     background-color: $grey-color-light;
   }
+
+  .tab > .active > a {
+    color: var(--global-text-color-light);
+  }
 }
 
 body.workshop {
