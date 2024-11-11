@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: workshops
+title: My life prompted
 nav: true
 nav_order: 4
 ---
