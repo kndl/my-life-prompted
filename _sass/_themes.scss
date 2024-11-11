@@ -9,8 +9,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$orange-color};
+  --global-hover-color: #{$orange-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -79,8 +79,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$orange-color};
+  --global-hover-color: #{$orange-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
@@ -155,3 +155,42 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+// Workshop stuff^M
+.workshop {
+  h1 {
+    text-align: right;
+  }
+  h1, h2 {
+    color: #74b72e;
+  }
+  h3 {
+    color: #b76379;
+  }
+  h4, p, ul, li {
+    color: #000000;
+  }
+
+  p + ul {
+    margin-top: -1rem;
+  }
+
+  .checkout-button {
+    background-color:$orange-color;
+    color:#FFF;
+    padding:8px 12px;
+    border:0;
+    border-radius:4px;
+    font-size:1em;
+    cursor:pointer
+  }
+
+  .checkout-button:disabled {
+    background-color: $grey-color-light;
+  }
+}
+
+body.workshop {
+  background-color: #f9f6ee;
+}
+

@@ -13,10 +13,12 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+
+    <script src="https://js.stripe.com/v3"></script>
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %} workshop">
     <!-- Header -->
     {% include header.liquid %}
 
