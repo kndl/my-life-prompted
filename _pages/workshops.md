@@ -43,7 +43,7 @@ My goal is to create a transformative experience. I have crafted a process desig
 Each morning for one month you will receive a writing prompt; I recommend spending at least 10 minutes on your response. If you would like to receive comments or feedback, I will happily provide those each day. 
 
 #### Weekly meetings 
-Each week for one month the participants in this workshop (10 maximum per cohort) will have the opportunity to meet virtually on Zoom for 1 hour. Each meeting will include a 10-minute overview message from me, a group activity, and time for sharing. I’m a big believer in community and the role that community plays in supporting creativity. So while these meetings are not at all “required,” they are fun, safe spaces to share, deepen our growth, and develop a creative network.
+Each week for one month the participants in this workshop (10 maximum per cohort) will have the opportunity to meet virtually on Zoom for 1 hour. Each virtual meeting will include a 10-minute overview message from me, a group activity, and time for sharing. I’m a big believer in community and the role that community plays in supporting creativity. So while these meetings are not at all &ldquo;required,&rdquo; they are fun, safe spaces to share, deepen our growth, and develop a creative network.
 
 #### 1:1 session 
 As a workshop participant, you’ll also get one, hour-long creative session with me. We’ll plan to schedule this towards the end of the workshop or once it has already concluded, so that we can talk about how your experience might prompt what comes next! 
@@ -62,12 +62,13 @@ Sign up for the dates and weekly meeting time that best suits you. The financial
 ### Included in this price: 
 _\_\_\_ 30 daily prompts\
 _\_\_\_ 30 opportunities for feedback on prompts (optional)\
-_\_\_\_ 4 creative, small group meetings and community engagement (weekly for one month)\
+_\_\_\_ 4 creative, small group meetings and community engagement (virtual, weekly for one month)\
 _\_\_\_ A 1:1 creative session with me\
 _\_\_\_ Loads of resources to inspire you along the way!
 
+{% endtab %}
 
-## FAQs
+{% tab sections FAQ %}
 
 ### What’s the deal with the prompts?
 A prompt is \_\_\_\_\_\_\_\_\_. A prompt is an invitation to be creative. A prompt is an open door that doesn’t care where you go once you’ve passed through. A prompt is a beginning. A prompt has no right answers. A prompt is make-believe until you respond. A prompt is magic once you do. 
@@ -94,9 +95,7 @@ Things happen. If you start the workshop and a scheduling conflict emerges, plea
 
 {% tab sections register %}
 
-### Register for My life prompted!
-
-#### January dates
+### January dates
 Prompts start on January 5 and end on February 3.
 
 Choose a day for the virtual, creative group meeting:
@@ -104,7 +103,8 @@ Choose a day for the virtual, creative group meeting:
 * Sundays from 1-2pm PST (January 12, 19, 26, February 2)
 * Wednesdays from 6-7pm PST (January 8, 15, 22, 29)
 
-#### February dates
+<br />
+### February dates
 Prompts start on February 2 and end on March 3.
 
 Choose a day for the virtual, creative group meeting:
@@ -113,6 +113,7 @@ Choose a day for the virtual, creative group meeting:
 * Wednesdays from 6-7pm PST (February 5, 12, 19, 26)
 
 
+<br />
 <label for="workshop-dates">Choose a workshop date option:</label>
 <select name="workshop-dates" id="workshop-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>

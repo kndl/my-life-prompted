@@ -3,11 +3,10 @@ layout: default
 permalink: /confirmation/
 title: Workshop Confirmation
 nav: false
-nav_order: 4
 ---
 
-# Congratulations! On your successful \_\_\_\_\_\_\_\_\_\_\_\_.
+# You've been prompted!
 
-Booking. That's right, booking.
+Thank you for signing up for the My life prompted workshop.
 
-You should receive a confirmation email shortly.
+You can expect to receive a confirmation email shortly. I will send another email a few weeks before the workshop starts with additional details.
