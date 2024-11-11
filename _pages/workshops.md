@@ -114,6 +114,8 @@ Choose a day for the virtual, creative group meeting:
 
 
 <br />
+Refund policy: If you are unable to attend the workshop after registering, a full refund can be issued 48 hours before the workshop start date. If you are unable to join or continue with the workshop after that time, you will be issued a credit for a future workshop.
+
 <label for="workshop-dates">Choose a workshop date option:</label>
 <select name="workshop-dates" id="workshop-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
