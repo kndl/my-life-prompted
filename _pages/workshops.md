@@ -155,8 +155,8 @@ Choose a day for the virtual, creative group meeting:
        * Instead use one of the strategies described in
        * https://docs.stripe.com/payments/checkout/fulfill-orders
        */
-      successUrl: 'https://tumbleweedpioneer.com/workshop-confirmation',
-      cancelUrl: 'https://tumbleweedpioneer.com/workshops',
+      successUrl: 'https://mylifeprompted.com/confirmation',
+      cancelUrl: 'https://mylifeprompted.com/',
     })
     .then(function (result) {
       if (result.error) {
