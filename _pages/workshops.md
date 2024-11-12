@@ -52,14 +52,14 @@ As a workshop participant, you’ll also get one, hour-long creative session wit
 In addition to the prompts, optional feedback, and weekly sessions, I will provide a list of references curated towards deepening your creative process. 
 
 ### Who I am and why I’m doing this \_\_\_\_\_\_\_\_\_\_\_\_ 
-I’m Emily Nava, a writer who started her own writing business, Tumbleweed Pioneer, in January 2024. I created this workshop because a prompts-based writing method is what led to my own creative unblocking. I’ve written since I was a young child, but chose a career in the tech industry until I felt the pull grow stronger and stronger to commit to my creative calling. Now I work as a full-time writer, choosing the projects and clients that fulfill me. Prompts aren’t the only thing that contributed to my path, but they have been a huge part of it and I want to share the practice with others. 
+I’m Emily Nava, a writer who started her own writing business, [Tumbleweed Pioneer](https://tumbleweedpioneer.com/), in January 2024. I created this workshop because a prompts-based writing method is what led to my own creative unblocking. I’ve written since I was a young child, but chose a career in the tech industry until I felt the pull grow stronger and stronger to commit to my creative calling. Now I work as a full-time writer, choosing the projects and clients that fulfill me. Prompts aren’t the only thing that contributed to my path, but they have been a huge part of it and I want to share the practice with others. 
 
 Through the process of working with my clients, I’ve developed a unique and easy way for people to start trusting themselves and their voice. And I am a firm believer that having more people in touch with their creative selves in this world is a great thing! It would be an honor to support you in your creative journey. 
 
 ### Ready to commit? \_\_\_\_\_\_\_\_\_\_\_\_ 
-Sign up for the dates and weekly meeting time that best suits you. The financial commitment is $400. The time commitment is at least 10 minutes a day of personal writing practice, 4 one-hour group meetings over the course of a month, plus a 1:1 meeting with me. The personal commitment is a valentine to your truest expression of self. 
+Sign up for the dates and weekly meeting time that best suits you. The financial commitment is $400. The time commitment is at least 10 minutes a day of personal writing practice, 4 one-hour, virtual group meetings over the course of a month, plus a 1:1 meeting with me. The personal commitment is a valentine to your truest expression of self. 
 
-### Included in this price: 
+### Included in this price ($400): 
 _\_\_\_ 30 daily prompts\
 _\_\_\_ 30 opportunities for feedback on prompts (optional)\
 _\_\_\_ 4 creative, small group meetings and community engagement (virtual, weekly for one month)\
@@ -90,6 +90,8 @@ There sure will be! A number of follow-ons will be offered after this initial wo
 ### What if I can’t complete the workshop for some reason? 
 Things happen. If you start the workshop and a scheduling conflict emerges, please email me so that you can be added to an upcoming cohort. Please read the refund policy for any additional questions. 
 
+### More questions? 
+Feel free to reach out to me directly by emailing tumbleweedpioneer AT gmail DOT com
 
 {% endtab %}
 
@@ -114,7 +116,7 @@ Choose a day for the virtual, creative group meeting:
 
 
 <br />
-Refund policy: If you are unable to attend the workshop after registering, a full refund can be issued 48 hours before the workshop start date. If you are unable to join or continue with the workshop after that time, you will be issued a credit for a future workshop.
+Refund policy: If you are unable to attend the workshop after registering, a full refund can be issued up to 48 hours before the workshop start date. If you are unable to join or continue with the workshop after that time, you will be issued a credit for a future workshop.
 
 <label for="workshop-dates">Choose a workshop date option:</label>
 <select name="workshop-dates" id="workshop-dates">
