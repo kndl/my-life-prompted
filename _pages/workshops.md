@@ -154,8 +154,6 @@ Refund policy: If you are unable to attend the workshop after registering, a ful
 
     var workshopDatesSelect = document.getElementById('workshop-dates');
     workshopDatesSelect.addEventListener("change", function() {
-        console.log("value is ", workshopDatesSelect.value);
-        console.log("value is not null ", workshopDatesSelect.value != null);
         checkoutButton.disabled = workshopDatesSelect.value == null;
     });
 
