@@ -161,17 +161,13 @@ html[data-theme-setting="light"] {
   h1 {
     text-align: right;
   }
-  h1,
-  h2 {
+  h1, h2 {
     color: #74b72e;
   }
   h3 {
     color: #b76379;
   }
-  h4,
-  p,
-  ul,
-  li {
+  h4, p, ul, li {
     color: #000000;
   }
 
@@ -180,13 +176,13 @@ html[data-theme-setting="light"] {
   }
 
   .checkout-button {
-    background-color: #74b72e;
-    color: #fff;
-    padding: 8px 12px;
-    border: 0;
-    border-radius: 4px;
-    font-size: 1em;
-    cursor: pointer;
+    background-color:#74b72e;
+    color:#FFF;
+    padding:8px 12px;
+    border:0;
+    border-radius:4px;
+    font-size:1em;
+    cursor:pointer
   }
 
   .checkout-button:disabled {
@@ -201,3 +197,4 @@ html[data-theme-setting="light"] {
 body.workshop {
   background-color: #f9f6ee;
 }
+
