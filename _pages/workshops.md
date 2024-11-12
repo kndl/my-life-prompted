@@ -119,12 +119,12 @@ Refund policy: If you are unable to attend the workshop after registering, a ful
 <label for="workshop-dates">Choose a workshop date option:</label>
 <select name="workshop-dates" id="workshop-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1QJmm4DWI41Mc7pyEOIDuLgf">Saturdays in January</option>
-    <option value="price_1QK32pDWI41Mc7pyDB7Z9xSQ">Sundays in January</option>
-    <option value="price_1QK33mDWI41Mc7pyzLYYZhma">Wednesdays in January</option>
-    <option value="price_1QK34HDWI41Mc7pykZsb53Py">Saturdays in February</option>
-    <option value="price_1QK34lDWI41Mc7py7duCMKsZ">Sundays in February</option>
-    <option value="price_1QK35DDWI41Mc7pyg6TI82vt">Wednesdays in February</option>
+    <option value="price_1QK7jODWI41Mc7pyZeYJb9ii">Saturdays in January</option>
+    <option value="price_1QK7jSDWI41Mc7pyKRuaURcV">Sundays in January</option>
+    <option value="price_1QK7jUDWI41Mc7pyMzcSHV8R">Wednesdays in January</option>
+    <option value="price_1QK7jWDWI41Mc7pyu16yo24N">Saturdays in February</option>
+    <option value="price_1QK7jXDWI41Mc7pyqYGT0rPV">Sundays in February</option>
+    <option value="price_1QK7jZDWI41Mc7pyoOZMEdcO">Wednesdays in February</option>
 </select>
 
 <button disabled class="checkout-button" id="checkout-button" role="link" type="button">Checkout</button>
@@ -132,7 +132,7 @@ Refund policy: If you are unable to attend the workshop after registering, a ful
 <div id="error-message"></div>
 <script>
 (function() {
-  var stripe = Stripe('pk_test_51OS9CkDWI41Mc7py7VuwCDmoYDkNVpFuBu4to1W6InCN5NuSzNnMhSMAjWxpniX12kPRfrYw0N6L8PfXj5Dlpn8900TiirUyyf');
+  var stripe = Stripe('pk_live_51OS9CkDWI41Mc7pyIIsKI0sxlc10XtY1ZPUKM8C0e75wu2uQXU7PRzFMzfVBfMWqvMEWKA0Hey2keyP5MY30jN5700nyu87NR0');
 
     var workshopDatesSelect = document.getElementById('workshop-dates');
     workshopDatesSelect.addEventListener("change", function() {
