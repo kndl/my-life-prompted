@@ -7,11 +7,6 @@ nav_order: 1
 tabs: true
 ---
 
-# My
-# life
-# prompted
-# \_\_\_\_\_\_\_\_\_\_\_\_.
-
 {% tabs sections %}
 
 {% tab sections Current workshop offering %}
