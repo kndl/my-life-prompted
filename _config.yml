@@ -183,16 +183,16 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /:collection/:title/
-  projects:
-    output: false
-    permalink: /:collection/:title/
-
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: false
+#     permalink: /:collection/:title/
+#   projects:
+#     output: false
+#     permalink: /:collection/:title/
+#
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
