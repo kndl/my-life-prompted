@@ -35,13 +35,13 @@ I am a very strong believer in the power of writing, and in the prompt-based wri
 So if you’re looking for work, I want to support you on your journey. And I’ll be honest, I have a bigger agenda: I hope this leads to a life-long journaling practice for you. This workshop is free so that you can focus entirely on writing and crafting your vision of what’s next.   
 
 ### What is next? 
-Register for this free workshop and start writing. Pick one of the four start dates. Starting on the date you picked, you’ll get a prompt a day for the next 30 days. 
+Register for this free workshop and start writing. Pick one of the four start dates. Starting on the date you choose, you’ll get one prompt a day for the next 30 days. 
 
 {% endtab %}
 
 {% tab sections About %}
 
-I’m your workshop host, Emily Anne Nava. I started my own writing business, [Tumbleweed Pioneer](https://tumbleweedpioneer.com/), in 2023. Since then I’ve led a number of prompts-based writing workshops. It’s a practice I feel passionate about because this writing method led to my own creative unblocking. I’ve written since I was a young child, but chose a career in the tech industry until I felt the pull grow stronger and stronger to commit to my creative calling. Now I work as a full-time writer, choosing the projects and clients that fulfill me. Prompts aren’t the only thing that contributed to my path, but they have been a huge part of it and I want to share the practice with others.
+I’m your workshop host, Emily Anne Nava. I started my own writing business, [Tumbleweed Pioneer](https://tumbleweedpioneer.com/), in 2023. Since then I’ve led a number of prompts-based writing workshops. It’s a practice I feel passionate about because this writing method led to my own creative unblocking. I’ve written since I was a young child, but chose a career in the tech industry until I felt the pull grow stronger and stronger to commit to my creative calling. Now I work as a full-time writer, choosing the projects and clients that fulfill me. Prompts aren’t the only thing that contributed to my path, but they have been a huge part of it, and I want to share the practice with others.
 
 Through the process of working with my clients, I’ve developed a unique and inspiring way for people to start trusting themselves and their voice. And I am a firm believer that having more people in touch with their creative selves in this world is a great thing!
 
@@ -72,10 +72,10 @@ The best way to support my work is by becoming a [paid subscriber](https://tumbl
 <label for="workshop-dates">Choose a start date:</label>
 <select name="workshop-dates" id="workshop-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1QK7jODWI41Mc7pyZeYJb9ii">April 28 (prompts end on May 27)</option>
-    <option value="price_1QK7jSDWI41Mc7pyKRuaURcV">May 5 (prompts end on June 3)</option>
-    <option value="price_1QK7jUDWI41Mc7pyMzcSHV8R">May 12 (prompts end on June 10)/option>
-    <option value="price_1QK7jWDWI41Mc7pyu16yo24N">May 19 (prompts end on June 17)</option>
+    <option value="price_1QK7jODWI41Mc7pyZeYJb9ii">May 5 (prompts end on June 3))</option>
+    <option value="price_1QK7jSDWI41Mc7pyKRuaURcV">May 12 (prompts end on June 10)</option>
+    <option value="price_1QK7jUDWI41Mc7pyMzcSHV8R">May 19 (prompts end on June 17)/option>
+    <option value="price_1QK7jWDWI41Mc7pyu16yo24N">May 26 (prompts end on June 24)</option>
 </select>
 
 <button disabled class="checkout-button" id="checkout-button" role="link" type="button">Checkout</button>
