@@ -13,7 +13,7 @@
   --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-text-color: #{$black-color};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
@@ -158,6 +158,23 @@ html[data-theme-setting="light"] {
 
 // Workshop stuff
 .workshop {
+  .banner-and-header {
+    position: static;
+  }
+  nav {
+    position: static;
+    background-color: transparent;
+    padding-left: 0;
+    .container {
+      padding-left: 0;
+      ul.navbar-nav {
+        justify-content: flex-start;
+        a.nav-link {
+          padding: 0.5rem 1rem 0.5rem 0;
+        }
+      }
+    }
+  }
   h1 {
     text-align: right;
     word-spacing: 100vw;
@@ -198,5 +215,10 @@ html[data-theme-setting="light"] {
 
 body.workshop {
   background-color: #f9f6ee;
+
+  footer {
+    background-color: #f9f6ee;
+  }
 }
+
 
