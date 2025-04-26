@@ -5,7 +5,7 @@ title: Workshop Confirmation
 nav: false
 ---
 
-## You've been prompted!
+### You've been prompted!
 
 Thank you for signing up for the My life prompted workshop.
 
