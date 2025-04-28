@@ -1,0 +1,72 @@
+<form id="workshop-form" action="https://formspree.io/f/xwpopjkw" method="POST">
+  <p id="form-status"></p>
+
+  <label>
+    Choose a start date: 
+    <select id="start-date" name="start-date" required>
+      <option value="May 5">May 5 (prompts end on June 3)</option>
+      <option value="May 12">May 12 (prompts end on June 10)</option>
+      <option value="May 19">May 19 (prompts end on June 17)</option>
+      <option value="May 26">May 26 (prompts end on June 24)</option>
+    </select>
+  </label>
+
+  <label>
+    First name:
+    <input type="text" name="fname" required>
+  </label>
+
+  <label>
+    Last name:
+    <input type="text" name="lname" required>
+  </label>
+
+  <label>
+    Email:
+    <input type="email" name="email" required>
+  </label>
+
+  <label>
+    If you want to ask a question or send a message, you can do so here:
+    <br />
+    <textarea name="message"></textarea>
+  </label>
+
+  <input type="text" name="_gotcha" style="display:none" />
+
+  <button id="form-button">Submit</button>
+</form>
+
+<script defer>
+document.addEventListener("DOMContentLoaded", function() {
+  var form = document.getElementById("workshop-form");
+  async function handleSubmit(event) {
+  event.preventDefault();
+  var status = document.getElementById("form-status");
+  var data = new FormData(event.target);
+  fetch(event.target.action, {
+    method: form.method,
+    body: data,
+    headers: {
+      'Accept': 'application/json'
+  }
+  }).then(response => {
+    if (response.ok) {
+      status.innerHTML = "Thank you for registering for the workshop! Be on the lookout for an email from Tumbleweed Pioneer with the details!";
+      form.reset()
+    } else {
+      response.json().then(data => {
+      if (Object.hasOwn(data, 'errors')) {
+        status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+      } else {
+        status.innerHTML = "Oops! There was a problem submitting your form"
+      }
+    })
+  }
+  }).catch(error => {
+    status.innerHTML = "Oops! There was a problem submitting your form"
+  });
+  }
+  form.addEventListener("submit", handleSubmit)
+});
+</script>

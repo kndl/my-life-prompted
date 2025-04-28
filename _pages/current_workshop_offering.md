@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: My life prompted
+title: Current workshop offering
 subtitle: Writing, editing, communication services
 
 news: false  # includes a list of news items
