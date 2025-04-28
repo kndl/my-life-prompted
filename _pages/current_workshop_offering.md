@@ -11,7 +11,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ### Free, prompt-based writing workshop description
-This workshop was designed for people who have been laid off, let go, or are otherwise looking for a work opportunity. Sign up for a start date and you’ll receive a prompt a day for 30 days. Every Friday I’ll send a few resources your way (links to other writing workshops, book references, etc.). And a few weeks into the prompting, I’ll send out information about a virtual meeting for those who want to talk about how the prompt process is going. 
+While anyone and everyone is welcome to join, this workshop was designed for folks who have experienced job loss, have recently quit their job, or are otherwise looking for a new work opportunity. Sign up for a start date and you’ll receive a prompt a day for 30 days. Every Friday I’ll send a few resources your way (links to other writing workshops, book references, etc.). And a few weeks into the prompting, I’ll send out information about a virtual meeting for those who want to talk about how the prompt process is going. 
 
 
 ### How it works 
