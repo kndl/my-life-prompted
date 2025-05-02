@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Current workshop offering
+title: Current workshop
 subtitle: Writing, editing, communication services
 
 news: false  # includes a list of news items
