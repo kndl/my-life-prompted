@@ -160,6 +160,17 @@ html[data-theme-setting="light"] {
 .workshop {
   .banner-and-header {
     position: static;
+    picture {
+      display: flex;
+      width: 100%;
+      img {
+        object-fit: cover;
+        object-position: bottom right;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+      }
+    }
   }
   nav {
     position: static;
