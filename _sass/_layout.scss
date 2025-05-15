@@ -14,12 +14,42 @@ body {
   h5,
   h6 {
     scroll-margin-top: 66px;
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
   }
 }
 
-body.fixed-top-nav {
-  // Add some padding for the nav-bar.
-  padding-top: 56px;
+.navbar {
+  padding: 0 !important;
+  border: 0 !important;
+}
+
+.nav-item {
+  text-align: center;
+  padding: 0 0.5rem;
+  margin: 0 1rem 0 0;
+}
+
+.nav-item.active {
+  background-color: #c19690;
+
+  .nav-link {
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    text-align: center;
+  }
+}
+
+.nav-link {
+  padding: 0 !important;
+  font-size: 1.125rem;
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-align: center;
 }
 
 body.sticky-bottom-footer {
@@ -29,6 +59,10 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+}
+
+.content {
+  // padding: 0 1rem;
 }
 
 // Profile
