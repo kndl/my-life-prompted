@@ -15,7 +15,7 @@ If you’ve been laid off recently, this workshop is designed for you. Backed by
 
 
 ### How it works 
-You will receive a prompt every morning in your inbox for 30 days. I recommend spending a minimum of 10 minutes writing a response to the prompt. When, where, and how you write is, of course, entirely up to you. Some will turn to paper journals, while others will choose to bang something out on a computer or phone. I do recommend keeping track of your prompts, as you’ll likely want to refer to them later. No one else will see your responses (unless you decide to share), so let honesty be your guide and let it flow.  
+You will receive a prompt every morning in your inbox for 30 days. I recommend spending a minimum of 10 minutes writing a response to the prompt. When, where, and how you write is, of course, entirely up to you. Some will turn to paper journals, while others will choose to bang something out on a computer or phone. I do recommend keeping track of your prompts, as you’ll likely want to refer to them later. No one else will see your responses (unless you decide to share), so let it flow&mdashhonestly.  
 
 
 ### What will the prompts be like? 
