@@ -19,7 +19,7 @@ You will receive a prompt every morning in your inbox for 30 days. I recommend s
 
 
 ### What will the prompts be like? 
-The prompts are designed using the [expressive writing](https://www.psychologytoday.com/us/blog/write-yourself-well/201208/expressive-writing) framework, providing an opportunity to process the past and most importantly to design your path forward. Social psychologists have conducted decades of research on the expressive writing approach to processing and overcoming challenges as a step to moving on and embracing new opportunities. This is your chance to write your own story and own the narrative of your career path.
+The prompts are designed using the [expressive writing](https://www.psychologytoday.com/us/blog/write-yourself-well/201208/expressive-writing) framework, providing an opportunity to process the past and most importantly to craft your path forward. Social psychologists have conducted decades of research on the expressive writing approach to processing and overcoming challenges as a step to moving on and embracing new opportunities. This is your chance to write your own story and own the narrative of your career path.
 
 
 ### What’s the point of all this? 
