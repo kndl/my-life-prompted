@@ -14,7 +14,7 @@ social: false  # includes social icons at the bottom of the page
 If you’ve been laid off recently, this workshop is designed for you. Backed by [science](https://www.apa.org/news/podcasts/speaking-of-psychology/expressive-writing) and based on first-hand experience, this workshop provides you with the tools to move past what’s happened and focus on creating what’s next.
 
 
-### How it works 
+### How does this workshop work? 
 You will receive a prompt every morning in your inbox for 30 days. I recommend spending a minimum of 10 minutes writing a response to the prompt. When, where, and how you write is, of course, entirely up to you. Some will turn to paper journals, while others will choose to bang something out on a computer or phone. I do recommend keeping track of your prompts, as you’ll likely want to refer to them later. No one else will see your responses (unless you decide to share), so let it flow - honestly.  
 
 
