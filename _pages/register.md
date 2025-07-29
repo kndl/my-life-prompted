@@ -120,3 +120,5 @@ Thank you for registering for the workshop!
 })();
 </script>
 
+Refund policy: If you are unable to attend the workshop after registering, a full refund can be issued up to 48 hours before the workshop start date. If you are unable to join or continue with the workshop after that time, please reach out to tumbleweedpioneer AT gmail DOT com.
+
