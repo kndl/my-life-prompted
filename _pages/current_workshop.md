@@ -10,16 +10,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-### Re-writing your career moves: A writing workshop for people who have been laid off
+### Re-writing Your Career Moves: A writing workshop for people who have been laid off
 If you’ve been laid off recently, this workshop is designed for you. Backed by [science](https://www.apa.org/news/podcasts/speaking-of-psychology/expressive-writing) and based on [first-hand experience](https://open.substack.com/pub/tumbleweedpioneer/p/the-science-of-the-art-of-writing?r=25jwcy&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), this workshop provides you with the tools to move past what’s happened and focus on creating what’s next.
 
 
 ### How does this workshop work? 
-<b>Prompt workshop: 30 days of prompts</b><br>
+**Prompt workshop: 30 days of prompts**<br />
 If you choose the prompt workshop option, you will receive a prompt every morning in your inbox for 30 days. I recommend spending a minimum of 10 minutes writing a response to the prompt. When, where, and how you write is, of course, entirely up to you. Some will turn to paper journals, while others will choose to bang something out on a computer or phone. I do recommend keeping track of your prompts, as you’ll likely want to refer to them later. No one else will see your responses (unless you decide to share), so let it flow - honestly.  
 
-<b>Prompts + classes: 30 days of prompts + a class each week for a month</b><br>
-If you choose the prompts plus classes option, you will receive a prompt every morning in your inbox for 30 days and an invite to a meeting over Zoom every Wednesday for a month. The topics we'll cover include:<br>1. Envision: Take the [Designing Your Life](https://designingyour.life/books-designing-life-original-book/) approach to building your career path.<br>2. Community: Make sure that you [Never Search Alone](https://www.neversearchalone.org/) and move forward with your network.<br>3. Communication: Learn to clarify and focus your message.<br>4. Values: For meaningful work, ground your purpose in your beliefs. 
+**Prompts + classes: 30 days of prompts + a class each week for a month**<br />
+If you choose the prompts plus classes option, you will receive a prompt every morning in your inbox for 30 days and an invite to a meeting over Zoom every Wednesday for a month. The topics we'll cover include:<br />1. Envision: Take the [Designing Your Life](https://designingyour.life/books-designing-life-original-book/) approach to building your career path.<br />2. Community: Make sure that you [Never Search Alone](https://www.neversearchalone.org/) and move forward with your network.<br />3. Communication: Learn to clarify and focus your message.<br />4. Values: For meaningful work, ground your purpose in your beliefs. 
 
 ### What will the prompts be like? 
 The prompts are designed using the [expressive writing](https://www.psychologytoday.com/us/blog/write-yourself-well/201208/expressive-writing) framework, providing an opportunity to process the past and most importantly to craft your path forward. Social psychologists have conducted decades of research on the expressive writing approach to processing and overcoming challenges as a step to moving on and embracing new opportunities. This is your chance to write your own story and own the narrative of your career path.
