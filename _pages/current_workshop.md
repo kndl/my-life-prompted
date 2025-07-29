@@ -32,3 +32,6 @@ So if you’re looking for work, I want to support you on your journey. And I’
 
 ### What is next? 
 [Register](https://mylifeprompted.com/register) for one of the workshop options: just the prompts or prompts + classes. Starting on the date you pick, you’ll get a prompt a day for the next 30 days. Write on. 
+
+### P.S. A word about prompts 
+"Prompts" carries a lot of meaning at the moment. It merits clarifying that when I refer to the use of "prompts" in this writing workshop, I am referring to questions or statements that I personally have crafted. These are organic, free range, entirely natural prompts. Nothing artificial was used in the process of creating these prompts. 
