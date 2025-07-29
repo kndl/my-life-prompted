@@ -15,26 +15,22 @@ Thank you for registering for the workshop!
 
 ### Prompts-only workshop
 <select name="prompts-only-dates" id="prompts-only-dates">
-    <!-- TODO: price ids -->
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
     <option value="price_1Rq1h1DWI41Mc7pyzIE8cz0R">Starting August 4 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2WdDWI41Mc7py8JcVDxi8">Starting August 11 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2XeDWI41Mc7pytwAWFzzu">Starting August 18 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2YUDWI41Mc7pyFFYFgcOc">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts</option>
 </select>
-<!-- TODO: button js working -->
 <button disabled class="checkout-button" id="prompts-only-checkout-button" role="link" type="button">Checkout</button>
 
 ### Prompts + classes workshop
 <select name="prompts-plus-classes-dates" id="prompts-plus-classes-dates">
-    <!-- TODO: price ids -->
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
     <option value="price_1Rq1iwDWI41Mc7pyoRupdD8k">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
     <option value="price_1Rq2aXDWI41Mc7pyxLjODVMg">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
     <option value="price_1Rq2c3DWI41Mc7pyabsRRMYi">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
     <option value="price_1Rq2cnDWI41Mc7pyMTwX3mUA">Starting September 15 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
 </select>
-<!-- TODO: button js working -->
 <button disabled class="checkout-button" id="prompts-plus-classes-checkout-button" role="link" type="button">Checkout</button>
 
 <div id="error-message"></div>
