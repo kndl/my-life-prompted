@@ -27,8 +27,8 @@ Thank you for registering for the workshop!
 <select name="prompts-plus-classes-dates" id="prompts-plus-classes-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
     <option value="price_1Rq1iwDWI41Mc7pyoRupdD8k">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1Rq2aXDWI41Mc7pyxLjODVMg">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1Rq2c3DWI41Mc7pyabsRRMYi">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1Rq2qyDWI41Mc7pySqXLO27E">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1Rq2sTDWI41Mc7pyvFeHpxCe">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
     <option value="price_1Rq2cnDWI41Mc7pyMTwX3mUA">Starting September 15 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
 </select>
 <button disabled class="checkout-button" id="prompts-plus-classes-checkout-button" role="link" type="button">Checkout</button>
