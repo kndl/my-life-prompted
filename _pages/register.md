@@ -16,10 +16,12 @@ Thank you for registering for the workshop!
 ### Prompts-only workshop
 <select name="prompts-only-dates" id="prompts-only-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1Rq1h1DWI41Mc7pyzIE8cz0R">Starting August 4 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2WdDWI41Mc7py8JcVDxi8">Starting August 11 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2XeDWI41Mc7pytwAWFzzu">Starting August 18 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2YUDWI41Mc7pyFFYFgcOc">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1RsDMnDWI41Mc7pyo9uudwcJ">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1RsDNEDWI41Mc7pytQ40Cgwr">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1RsDNbDWI41Mc7pyiJ6EbmyV">Starting September 15 &mdash; Re-writing Your Career Moves: Prompts</option>
 </select>
 <button disabled class="checkout-button" id="prompts-only-checkout-button" role="link" type="button">Checkout</button>
 
