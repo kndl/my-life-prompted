@@ -13,7 +13,7 @@ Once you choose a start date below for one of the workshop options, you will be 
 
 Thank you for registering for the workshop!
 
-### Prompts-only workshop
+### Prompts-only workshop ($100)
 <select name="prompts-only-dates" id="prompts-only-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
     <option value="price_1Rq2WdDWI41Mc7py8JcVDxi8">Starting August 11 &mdash; Re-writing Your Career Moves: Prompts</option>
@@ -25,7 +25,7 @@ Thank you for registering for the workshop!
 </select>
 <button disabled class="checkout-button" id="prompts-only-checkout-button" role="link" type="button">Checkout</button>
 
-### Prompts + classes workshop
+### Prompts + classes workshop ($350)
 <select name="prompts-plus-classes-dates" id="prompts-plus-classes-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
     <option value="price_1Rq1iwDWI41Mc7pyoRupdD8k">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
