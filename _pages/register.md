@@ -16,7 +16,6 @@ Thank you for registering for the workshop!
 ### Prompts-only workshop ($100)
 <select name="prompts-only-dates" id="prompts-only-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1Rq2WdDWI41Mc7py8JcVDxi8">Starting August 11 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2XeDWI41Mc7pytwAWFzzu">Starting August 18 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1Rq2YUDWI41Mc7pyFFYFgcOc">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1RsDMnDWI41Mc7pyo9uudwcJ">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts</option>
