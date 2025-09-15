@@ -16,20 +16,20 @@ Thank you for registering for the workshop!
 ### Prompts-only workshop ($100)
 <select name="prompts-only-dates" id="prompts-only-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1Rq2YUDWI41Mc7pyFFYFgcOc">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts</option>
-    <option value="price_1RsDMnDWI41Mc7pyo9uudwcJ">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts</option>
-    <option value="price_1RsDNEDWI41Mc7pytQ40Cgwr">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts</option>
-    <option value="price_1RsDNbDWI41Mc7pyiJ6EbmyV">Starting September 15 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1S7gyfDWI41Mc7pyCvm8EuUA">Starting September 22 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1S7gz7DWI41Mc7pyH7o2aOME">Starting September 29 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1S7gzTDWI41Mc7pyHjRr1Ho7">Starting October 6 &mdash; Re-writing Your Career Moves: Prompts</option>
+    <option value="price_1S7gzmDWI41Mc7py37rFL1HB">Starting October 13 &mdash; Re-writing Your Career Moves: Prompts</option>
 </select>
 <button disabled class="checkout-button" id="prompts-only-checkout-button" role="link" type="button">Checkout</button>
 
 ### Prompts + classes workshop ($350)
 <select name="prompts-plus-classes-dates" id="prompts-plus-classes-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option>
-    <option value="price_1Rq1iwDWI41Mc7pyoRupdD8k">Starting August 25 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1Rq2qyDWI41Mc7pySqXLO27E">Starting September 1 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1Rq2sTDWI41Mc7pyvFeHpxCe">Starting September 8 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1Rq2cnDWI41Mc7pyMTwX3mUA">Starting September 15 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1S7h3pDWI41Mc7pysOxa0OJh">Starting September 22 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1S7h46DWI41Mc7pyggWUc8YP">Starting September 29 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1S7h4MDWI41Mc7pyvmGTfqhT">Starting October 6 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
+    <option value="price_1S7h4cDWI41Mc7py1CdmkygC">Starting October 13 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
 </select>
 <button disabled class="checkout-button" id="prompts-plus-classes-checkout-button" role="link" type="button">Checkout</button>
 
