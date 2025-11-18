@@ -22,20 +22,18 @@ Thank you for registering for the workshop!
     <option value="price_1SUtbcDWI41Mc7pyGBavGPNa">Starting December 15 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1SUtc9DWI41Mc7pysVAM7jGc">Starting December 22 &mdash; Re-writing Your Career Moves: Prompts</option>
     <option value="price_1SUtccDWI41Mc7pyvrXvOe1U">Starting December 29 &mdash; Re-writing Your Career Moves: Prompts</option>
-
 </select>
 <button disabled class="checkout-button" id="prompts-only-checkout-button" role="link" type="button">Checkout</button>
 
 ### Prompts + intuitive session ($150)
 <select name="prompts-plus-sessions-dates" id="prompts-plus-sessions-dates">
     <option disabled selected value>&ndash;&ndash; Select an option &ndash;&ndash;</option> 
-    <option value="price_1SUtm4DWI41Mc7pyggjUE4D6">Starting November 24 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1SUtlPDWI41Mc7py4ApyL0D1">Starting December 1 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1SUtkyDWI41Mc7pyGlQkpGlv">Starting December 8 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1SUtkSDWI41Mc7py2YTKXkyn">Starting December 15 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1SUtjwDWI41Mc7pycAlFWPcB">Starting December 22 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-    <option value="price_1SUtjNDWI41Mc7pymZIfNkMz">Starting December 29 &mdash; Re-writing Your Career Moves: Prompts + Classes</option>
-
+    <option value="price_1SUtm4DWI41Mc7pyggjUE4D6">Starting November 24 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
+    <option value="price_1SUtlPDWI41Mc7py4ApyL0D1">Starting December 1 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
+    <option value="price_1SUtkyDWI41Mc7pyGlQkpGlv">Starting December 8 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
+    <option value="price_1SUtkSDWI41Mc7py2YTKXkyn">Starting December 15 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
+    <option value="price_1SUtjwDWI41Mc7pycAlFWPcB">Starting December 22 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
+    <option value="price_1SUtjNDWI41Mc7pymZIfNkMz">Starting December 29 &mdash; Re-writing Your Career Moves: Prompts + Session</option>
 </select>
 <button disabled class="checkout-button" id="prompts-plus-classes-checkout-button" role="link" type="button">Checkout</button>
 
