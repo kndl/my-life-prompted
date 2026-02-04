@@ -18,8 +18,6 @@ If you’ve been laid off recently, this workshop is designed for you. Backed by
 **Prompt workshop: 30 days of prompts**<br />
 If you choose the prompt workshop option, you will receive a prompt every morning in your inbox for 30 days. During the first week, the prompts will center on processing the layoff event. For the second week we’ll move on to communication and how to craft messaging for your future, the third week will focus on envisioning what we want to create, and the fourth week will be about moving forward in community.
 
-**Prompts + intuitive career coaching session**<br />
-If you choose the prompts plus the session, I’ll reach out to the email that you register with to set up a time for an intuitive session. (I’m offering these at a massive discount through the end of the year.) During our one-hour session together, we’ll discuss your vision for a future you, and uncover what might be holding you back. By the end of the session, we will have worked together to design a plan for your next move. 
 
 ### What will the daily prompts be like? 
 The prompts are designed using the [expressive writing](https://www.psychologytoday.com/us/blog/write-yourself-well/201208/expressive-writing) framework, providing an opportunity to process the past and most importantly to craft your path forward. Social psychologists have conducted decades of research on the expressive writing approach to processing and overcoming challenges as a step to moving on and embracing new opportunities. This is your chance to write your own story and own the narrative of your career path. 
