@@ -31,7 +31,7 @@ I am a very strong believer in the power of writing, and in the prompt-based wri
 So if you’re looking for work, I want to support you on your journey. And I’ll be honest, I have a bigger agenda: I hope this leads to a life-long journaling practice for you. 
 
 ### What is next? 
-[Register](https://mylifeprompted.com/register) for one of the workshop options: just the prompts or prompts + classes. Starting on the date you pick, you’ll get a prompt a day for the next 30 days. Write on. 
+[Register](https://mylifeprompted.com/register) for one of the workshop options. Starting on the date you pick, you’ll get a prompt a day for the next 30 days. Write on. 
 
 ### P.S. A word about prompts 
 "Prompts" carries a lot of meaning at the moment. It merits clarifying that when I refer to the use of "prompts" in this writing workshop, I am referring to questions or statements that I personally have crafted. These are organic, free range, entirely natural prompts. Nothing artificial was used in the process of creating these prompts. 
